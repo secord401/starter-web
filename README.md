@@ -4,3 +4,5 @@ adding more info
 ##How to contribute
 this is in the how to section
 ##Deployment
+
+## copyright
