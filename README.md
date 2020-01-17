@@ -2,7 +2,7 @@
 adding more info
 ##Intro
 ##How to contribute
-this is in the how to section
+Please fork this repository and then issue pull request review.
 ##Deployment
 
 ## copyright
